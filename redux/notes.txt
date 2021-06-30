@@ -1,0 +1,6 @@
+to make clean react :
+
+1. copy past the files 
+2. type in bash (npm i) to install the node_modules ==> done
+3. (npm start) to start react
+4. in router stuff npm install react-router-dom
